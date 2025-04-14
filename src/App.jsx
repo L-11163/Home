@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        点击我666
+        点击我66
       </p>
     </>
   )
